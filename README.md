@@ -1,6 +1,6 @@
 # Positional encoding
 
-This repository hsa two examples of how to use positional encoding.
+This repository has two examples of how to use positional encoding.
 - positional_encoding.ipynb
     - this notebook shows a simple (sine/cosine-based) function to create positional encoding.
 - learnable_pe.ipynb
